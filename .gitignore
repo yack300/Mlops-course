@@ -218,3 +218,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 Anaconda3-2022.05-Linux-x86_64.sh
+
+mlruns/
+mlflow.db
